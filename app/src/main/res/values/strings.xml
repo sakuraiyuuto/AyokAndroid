@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ayok Android</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_file">com.brillion.rachman.ayokandroid.preference_file</string>
+    <string name="pref_login_status">com.brillion.rachman.ayokandroid.preference_login_status</string>
+    <string name="pref_user_email">com.brillion.rachman.ayokandroid.preference_user_email</string>
+</resources>
