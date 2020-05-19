@@ -5,5 +5,11 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="merahAyok">#d73a23</color>
     <color name="oranyeAyok">#f4aa19</color>
+    <color name="putihAyok">#f5f5f5</color>
+    <color name="hitamAyok">#242424</color>
+    <color name="abuabuAyok">#e8e8e8</color>
+    <color name="login_form_details">#ccffffff</color>
+    <color name="login_form_details_light">#1affffff</color>
+    <color name="login_form_details_medium">#66ffffff</color>
 
 </resources>

@@ -6,4 +6,5 @@
     <string name="pref_file">com.brillion.rachman.ayokandroid.preference_file</string>
     <string name="pref_login_status">com.brillion.rachman.ayokandroid.preference_login_status</string>
     <string name="pref_user_email">com.brillion.rachman.ayokandroid.preference_user_email</string>
+    <string name="icon_launcher_name">AyoKerja!</string>
 </resources>
